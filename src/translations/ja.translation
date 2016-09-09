@@ -217,6 +217,10 @@
         <name>InvalidVersion</name>
     </customLabels>
     <customLabels>
+        <label>okokokokkookokokokJAPANESE</label>
+        <name>Last_Name</name>
+    </customLabels>
+    <customLabels>
         <label><!-- Late Tasks --></label>
         <name>LateTasks</name>
     </customLabels>

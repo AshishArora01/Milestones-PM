@@ -373,6 +373,13 @@
         <value>Invalid Version. This project was exported from a different version(</value>
     </labels>
     <labels>
+        <fullName>Last_Name</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Last Name</shortDescription>
+        <value>LastNameinJapanese</value>
+    </labels>
+    <labels>
         <fullName>LateTasks</fullName>
         <language>en_US</language>
         <protected>true</protected>
